@@ -1,0 +1,21 @@
+{
+  "name": "sandbox",
+  "version": "1.0.0",
+  "description": "for learning node.js",
+  "main": "main.js",
+  "dependencies": {
+    "package": "^1.0.1",
+    "q": "^1.4.1"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sandbox"
+  ],
+  "author": "Noppadet Vivatchotikul",
+  "license": "ISC"
+}
