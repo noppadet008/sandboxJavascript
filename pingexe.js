@@ -1,0 +1,93 @@
+const exec = require('child_process').exec;
+
+
+function e(){
+exec('ping 8.8.8.1 -n 1 -w 500', (error, stdout, stderr) => {
+  if (error) {
+    console.error(`exec error: ${error}`);
+    return;
+  }
+  console.log(`stdout: ${stdout}`);
+  console.log(`stderr: ${stderr}`);
+});
+console.log('test');
+}
+e();
+e();
+e();
+
+e();
+e();
+e();
+e();
+e();
+e();
+e();
+e();
+e();
+e();
+e();
+e();
+e();
+e();
+e();
+e();
+e();
+e();
+e();
+e();
+e();
+e();
+e();
+e();
+e();
+e();
+e();
+e();
+e();
+e();
+e();
+e();
+e();
+e();
+e();
+e();
+e();
+e();
+e();
+e();
+e();
+e();
+e();
+e();
+e();
+e();
+e();
+e();
+e();
+e();
+e();
+e();
+e();
+e();
+e();
+e();
+e();
+e();
+e();
+e();
+e();
+e();
+e();
+e();
+e();
+e();
+e();
+e();
+e();
+e();
+e();
+e();
+e();
+e();
+e();

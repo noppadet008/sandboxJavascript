@@ -1,0 +1,20 @@
+---
+xx: 
+    hostname: sfasf #fqdn
+    description: fadfs #user define.
+    username: fasdfdsfa #if not generate
+    remote_protocol: daff #SSH RDP
+    deployment_side: fadsfadsf #HDC
+nodename: 
+    hostname: afdasfas
+    description: gdsgsdaf
+    username: ddsvasdvd
+    remote_protocol: vdadrfew
+    deployment_side: fwaefe
+nodename: 
+    hostname: vavdsaf
+    description: vadsvdsvdsf
+    username: ewfgwe
+    remote_protocol: bfbaefdv
+    deployment_side: vdsafdf
+    #field duplicate pick first.

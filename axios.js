@@ -4,13 +4,13 @@ var axios = require('axios');
 
 function ss(){
     var ins = axios.create({
-        baseURL: 'http://capman.alpha.compass.int.thomsonreuters.com:8092/api/v1/'
+        baseURL: 'https://www.google.com.sg'
     });
 
-    ins.get('/norms?sort_by=name.raw:asc')
+    ins.get('?gfe_rd=cr&ei=6D32V4SjOebLugShq4HoDw')
         .then(function (res) {
             let i = res.data;
-            console.log(i[0]);
+            console.log(i);
             console.log('reach');
         });
 }
